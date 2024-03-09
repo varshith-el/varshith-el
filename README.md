@@ -21,7 +21,7 @@
 - **Frameworks/Libraries:** Django, ExpressJs, ReactJs, gRPC.
 - **API Development:** Django Rest Framework (DRF), ExpressJs
 - **Database:** PostgreSQL, MongoDB, DynamoDB
-- **Cloud Platform** AWS
+- **Cloud Platform:** AWS
 
 ### Tools & Environment
 - **Version Control:** Git

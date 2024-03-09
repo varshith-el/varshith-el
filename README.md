@@ -18,7 +18,7 @@
 
 ### Backend Development
 - **Languages:** Python, Java, JavaScript
-- **Frameworks/Libraries:** Django, Numpy (Python), ExpressJs, ReactJs, gRPC.
+- **Frameworks/Libraries:** Django, ExpressJs, ReactJs, gRPC.
 - **API Development:** Django Rest Framework (DRF), ExpressJs
 - **Database:** PostgreSQL, MongoDB, DynamoDB
 - **Cloud Platform** AWS
@@ -28,6 +28,30 @@
 - **IDE:** Visual Studio Code, IntelliJ Idea
 - **API Testing:** Postman
 - **API Documentation:** Swagger
+
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://icons8.com/icon/A3Ulk2RcONKs/spring-boot"></code>
+  <code><img width="10%" src="//https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+</p>
+
+
 
 ## Project Management
 

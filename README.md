@@ -83,7 +83,7 @@
   
 - **Timeline:**
   
-  - Learning DynamoDB,ReactJS in comphrensively now.
+  - Learning DynamoDB,Java,ReactJS in comphrensively now.
   - Redis
   - Kafka
   - Spring-Boot

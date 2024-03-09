@@ -35,7 +35,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://icons8.com/icon/A3Ulk2RcONKs/spring-boot"></code>
+  <code><img width="5%"  src="https://github.com/varshith-el/varshith-el/blob/main/skills_logo/icons8-spring-boot-160.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>

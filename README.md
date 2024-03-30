@@ -83,7 +83,7 @@
   
 - **Timeline:**
   
-  - Learning DynamoDB,Java now.
+  - Complete LLD repo.
   - Redis
   - Kafka
   - Spring-Boot

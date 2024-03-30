@@ -7,8 +7,8 @@
 ## Quick Overview
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
 - 💡 Open to collaborate on projects and Systems design.
-- 🤔 Expertised in Python, Django, Data Structures and Alogorithms.
-- 🧠 Daily Leetcode grinding is a hobby.
+- 🤔 Expertise in Python, Django, Data Structures and Alogorithms.
+- 🧠 Daily Leetcode grinding.
 - 🌐 Good knowledge on Microservices architecture.
 
 ## Skills & Tools

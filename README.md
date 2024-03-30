@@ -20,7 +20,7 @@
 - **Languages:** Python, Java, JavaScript
 - **Frameworks/Libraries:** Django, ExpressJs, ReactJs, gRPC.
 - **API Development:** Django Rest Framework (DRF), ExpressJs
-- **Database:** PostgreSQL, MongoDB, DynamoDB
+- **Database:** PostgreSQL, MongoDB, Redis
 - **Cloud Platform:** AWS
 
 ### Tools & Environment

@@ -8,15 +8,10 @@
 ## Skills & Tools
 
 ### Backend Development
-- **Languages:** Python, Java, JavaScript
-- **Frameworks/Libraries:** Django, ExpressJs, ReactJs, gRPC.
-- **API Development:** Django Rest Framework (DRF), ExpressJs
+- **Languages:** Python, Java,
+- **Frameworks/Libraries:** SpringBoot,FastAPI, gRPC.
 - **Database:** PostgreSQL, MongoDB, Redis
-- **Cloud Platform:** AWS
-
-### Tools & Environment
-- **Version Control:** Git
-- **IDE:** Visual Studio Code, IntelliJ Idea
+- **Cloud:** AWS
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -44,17 +39,3 @@
 
 
 
-
-## My Future Projects and To-Do's
-
-### 
-  
-- **Timeline:**
-  
-  - Complete LLD repo.
-  - Redis
-  - Kafka
-  - Spring-Boot
-  - Docker
-  - K8s
-  - Metrics and Logging
